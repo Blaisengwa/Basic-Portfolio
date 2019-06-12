@@ -1,4 +1,5 @@
 body {
+    background-color: white;
 
 }
 
@@ -6,12 +7,13 @@ nav {
 
 }
 
-.container {
+.maincontainer {
 
 }
 
 h1 {
-
+    background-color: #ffffff;
+    border-color: #cccccc;
 }
 
 #image {
@@ -20,6 +22,11 @@ h1 {
 
 section {
 
+
+}
+
+#section1 {
+    
 }
 
 #section2 {
@@ -39,7 +46,7 @@ section {
 }
 
 p {
-
+    color: #777777;
 }
 
 footer {
